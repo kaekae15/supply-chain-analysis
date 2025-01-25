@@ -104,9 +104,8 @@ GROUP BY `Product type`;
 
 
 ## How to Use
-- Excel file is in the `excel/` folder.
 - Screenshots of queries are in the `screenshots/` folder.
-- SQL queries are in the `queries/` folder.
+- Excel File/SQL queries are in the `queries/` folder.
 - Tableau dashboard is in the `tableau_dashboard/` folder.
 
 ## Technologies Used
