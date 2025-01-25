@@ -2,6 +2,7 @@
 
 ## Overview
 This project uses Excel, SQL, and Tableau to perform data cleaning, analyzing and extracting, and KPIs to gather insights from the supply chain dataset. 
+Data- https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset
 
 ## Compatibility Notes
 The SQL scripts were created with MySQL. 
@@ -105,7 +106,7 @@ GROUP BY `Product type`;
 
 ## How to Use
 - Screenshots of queries are in the `screenshots/` folder.
-- Excel File/SQL queries are in the `queries/` folder.
+- SQL queries are in the `queries/` folder.
 - Tableau dashboard is in the `tableau_dashboard/` folder.
 
 ## Technologies Used
